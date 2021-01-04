@@ -18,13 +18,6 @@ public class RobotMap {
 	// Robot container
 	public static RobotContainer robotContainer = new RobotContainer();
 
-	
-	int motorID = 0;
-	
-	// Robot container
-	public static RobotContainer robotContainer = new RobotContainer();
-	
 	public static OI OI = new OI(robotContainer);
-	
 
 }
